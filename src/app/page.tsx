@@ -5,7 +5,7 @@ export default function Home() {
   const links = [
     {
       label: 'BROSUR PMB UNISRI SOLO 2025',
-      url: 'https://drive.google.com/file/d/1QYFMhzs_Min81aNt1kB8ZLe9rbZBeqqZ/view?usp=drive_link',
+      url: 'https://drive.google.com/file/d/1GUtLG95WiqZxw8ZL1v41U29fmcO6wk6V/view?usp=sharing',
       download: true,
     },
     {
